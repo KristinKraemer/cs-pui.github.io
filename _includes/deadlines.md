@@ -39,6 +39,7 @@
 | [Ball State University](#bsu) | Muncie, IN. USA | 11/14/2024 |
 | [Hampden-Sydney College](#hampden-sydney) | Hampden-Sydney, VA. USA| 11/15/2024|
 | [Occidental College](#oxy) | Los Angeles, CA. USA| 11/15/2024|
+| [Kansas Wesleyan University](#KansasWesleyan) | Salina, KS. USA | 11/18/2024 (open until filled) |
 | [Lake Forest College](#LFC-cs) | Lake Forest, IL. USA | 11/22/2024|
 | [Western Washington University](#WWU-ECE) | Bellingham, WA. USA | 12/01/2024|
 | [College of the Atlantic](#coa) | Bar Harbor, ME. USA | 12/02/2024|
