@@ -42,5 +42,6 @@
 | [Lake Forest College](#LFC-cs) | Lake Forest, IL. USA | 11/22/2024|
 | [Western Washington University](#WWU-ECE) | Bellingham, WA. USA | 12/01/2024|
 | [College of the Atlantic](#coa) | Bar Harbor, ME. USA | 12/02/2024|
+| [Kansas Wesleyan University](#kansaswesleyan) | Salina, KS. USA | 12/02/2024|
 | [Hope College](#hopecollege) | Holland MI, USA | 01/02/2025 |
 | [Stonehill College](#stonehill) | Easton, MA. USA | Rolling |
