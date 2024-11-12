@@ -556,3 +556,14 @@ _Excerpt_ The Department of Computer Science at Xavier University in Cincinnati,
 [_back to all deadlines_](#deadlines)
 
 ------------
+
+### Kansas Wesleyan University
+{: #KansasWesleyan}
+
+[Excerpt] Kansas Wesleyan University seeks a tenure-track faculty member for the Department of Mathematics, Physics, and Computer Science, starting Fall 2025. The ideal candidate will have a strong commitment to teaching. They should also be passionate about mentoring undergraduate research and have expertise in areas such as artificial intelligence, data analytics, or computational science. A Ph.D. is preferred, but a Master's degree with relevant experience may be considered.  Specific areas of qualification include computer science, data science, data analytics, artificial intelligence, information science, cognitive science, decision science, applied statistics, and computational math and science or other related fields.  
+
+- We will begin reviewing application **November 18, 2024**  and will continue accepting applications until the positions are filled. 
+- Salina, KS, USA
+  
+[Full Job Posting](https://www.higheredjobs.com/institution/details.cfm?JobCode=178964308&Title=Assistant%20Professor%20of%20Computer%20Science%20(Tenure-Track)){: .button-job}
+[_back to all deadlines_](#deadlines)
